@@ -1,3 +1,11 @@
+这里是SUSTech java2课程 第二次作业 基于javafx和socket实现的井字棋游戏 
+
+本项目实现了可以选择对手的联机对战
+
+如有疑问可在issue中提出
+
+以下为demo文件的readme文件内容
+
 # Assignment 2 Tic-tac-toe Game
 
 This is a template for CS209A-22fall, assignment 2.
