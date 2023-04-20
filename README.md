@@ -4,7 +4,7 @@
 
 如有疑问可在issue中提出
 
-以下为demo文件的readme文件内容
+以下为项目demo的readme文件内容
 
 # Assignment 2 Tic-tac-toe Game
 
